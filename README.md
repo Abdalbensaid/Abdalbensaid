@@ -1,4 +1,4 @@
-# Salut, moi c'est [Ton Prénom] 👋
+# Salut, moi c'est Ouedraogo Abdoul Wahab 👋
 
 Développeur web full-stack passionné, créateur de solutions innovantes pour le web et le mobile. Actuellement Développeur Junior chez **Dughu Develop**, j’ai à cœur de transformer des idées en expériences numériques engageantes.
 
@@ -9,10 +9,10 @@ Je travaille principalement avec **Laravel**, **React.js**, et **Ionic**, et je 
 <div align="center">
 
 <a href="https://github.com/TonPseudo">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalbensaid&show_icons=true&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"/>
 </a>
-<a href="https://github.com/TonPseudo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&hide_border=true&title_color=4FC08D&text_color=ffffff&bg_color=0d1117"/>
+<a href="https://github.com/abdalbensaid">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalbensaid&layout=compact&hide_border=true&title_color=4FC08D&text_color=ffffff&bg_color=0d1117"/>
 </a>
 
 </div>
@@ -24,7 +24,7 @@ Je travaille principalement avec **Laravel**, **React.js**, et **Ionic**, et je 
 - 🔭 Je travaille sur une app mobile éducative avec Laravel, React & Ionic
 - 💼 Développeur Web junior @ Dughu Develop
 - 🧠 Passionné par l’IA, l’éducation numérique, les projets open-source
-- ✍️ Créateur de contenu tech sur [LinkedIn](https://linkedin.com/in/tonprofil) et bientôt TikTok
+- ✍️ Créateur de contenu tech sur [LinkedIn](https://www.linkedin.com/in/abdoul-wahab-ouedraogo-a93306292) et bientôt TikTok
 - 🌍 Objectif : créer des outils qui **éduquent, motivent et connectent**
 
 ---
@@ -65,18 +65,18 @@ Je travaille principalement avec **Laravel**, **React.js**, et **Ionic**, et je 
 
 ## 📈 Projets phares
 
-<a href="https://github.com/TonPseudo/nom-du-projet-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TonPseudo&repo=nom-du-projet-1&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
+<a href="https://github.com/abdalbensaid/djagoya_bot_api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdalbensaid&repo=o.abdalwahab&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
 </a>
-<a href="https://github.com/TonPseudo/nom-du-projet-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TonPseudo&repo=nom-du-projet-2&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
+<a href="https://github.com/abdalbensaid/nom-du-projet-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdalbensaid&repo=djagoya_bot_api&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
 </a>
 
 ---
 
 ## 📬 Me contacter
 
-- 🔗 [LinkedIn](https://linkedin.com/in/tonprofil)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdoul-wahab-ouedraogo-a93306292)
 - ✉️ Email pro : [ton.email@example.com]
 - 💻 Portfolio bientôt dispo !
 
