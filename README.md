@@ -62,7 +62,6 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 ### 🔝 Dépôts les plus actifs
 
 - 🧰 [portfolio-react](https://github.com/Abdalbensaid/o.abdalwahab)
-</-- - 🗃️ [magixtravel](https://github.com/Abdalbensaid/magixtravel)-->
 - 🔐 [api-auth-laravel](https://github.com/Abdalbensaid/djagoya_bot_api)
 )
 
