@@ -48,8 +48,10 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 
 ---
 
-## 🏆 Trophées GitHub
-![](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Mes trophées GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=radical&title=scommits,prs,followers&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
