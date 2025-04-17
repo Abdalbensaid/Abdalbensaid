@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Abdoul Wahab
 
-Développeur web full-stack passionné, actuellement **Développeur Junior chez Dughu Develop**, je conçois des applications web et mobiles modernes avec **Laravel**, **React.js**, **Ionic**, et d'autres technologies puissantes.
+Développeur web full-stack passionné, actuellement **Développeur chez Dughu Develop**, je conçois des applications web et mobiles modernes avec **Laravel**, **React.js**, **Ionic**, et d'autres technologies puissantes.
 
 Je m’investis également dans des projets éducatifs numériques et des outils SaaS innovants, mêlant UX, gamification et intelligence artificielle.
 
