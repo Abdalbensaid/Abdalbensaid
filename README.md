@@ -1,86 +1,82 @@
-# Salut, moi c'est Ouedraogo Abdoul Wahab 👋
+# 👋 Salut, moi c'est Abdoul Wahab
 
-Développeur web full-stack passionné, créateur de solutions innovantes pour le web et le mobile. Actuellement Développeur Junior chez **Dughu Develop**, j’ai à cœur de transformer des idées en expériences numériques engageantes.
+Développeur web full-stack passionné, actuellement **Développeur Junior chez Dughu Develop**, je conçois des applications web et mobiles modernes avec **Laravel**, **React.js**, **Ionic**, et d'autres technologies puissantes.
 
-Je travaille principalement avec **Laravel**, **React.js**, et **Ionic**, et je développe aussi une **application éducative** interactive inspirée de Duolingo, combinant IA, gamification et progression personnalisée. 🚀
+Je m’investis également dans des projets éducatifs numériques et des outils SaaS innovants, mêlant UX, gamification et intelligence artificielle.
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/TonPseudo">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalbensaid&show_icons=true&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-</a>
-<a href="https://github.com/abdalbensaid">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalbensaid&layout=compact&hide_border=true&title_color=4FC08D&text_color=ffffff&bg_color=0d1117"/>
-</a>
-
-</div>
+## 🌐 Réseaux sociaux :
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ouedraogoa2)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ouedraogo14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdoul-wahab-ouedraogo-a93306292)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdalwahabbensaid3772)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ouedabdoulwahab@hotmail.com)
 
 ---
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille sur une app mobile éducative avec Laravel, React & Ionic
-- 💼 Développeur Web junior @ Dughu Develop
-- 🧠 Passionné par l’IA, l’éducation numérique, les projets open-source
-- ✍️ Créateur de contenu tech sur [LinkedIn](https://www.linkedin.com/in/abdoul-wahab-ouedraogo-a93306292) et bientôt TikTok
-- 🌍 Objectif : créer des outils qui **éduquent, motivent et connectent**
+- 🔭 Je travaille sur une application éducative interactive avec Laravel + React + Ionic  
+- 🤖 Je conçois un bot e-commerce WhatsApp/Telegram pour les commerçants  
+- 🧠 Passionné par l’intelligence artificielle, l'éducation numérique et le développement agile  
+- ✍️ Créateur de contenu tech (TikTok, YouTube, LinkedIn)  
+- 🌱 J’apprends en continu et je partage ce que je découvre
 
 ---
 
-## 🛠️ Stack Tech
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,js,html,css,tailwind,vue,ionic,mysql,docker,git)](https://skillicons.dev)
-
-- Laravel pour des APIs REST solides
-- React & Ionic pour des interfaces modernes et responsives
-- TailwindCSS pour un design épuré
-- MySQL pour la gestion de données
-- Docker pour l’environnement de dev & déploiement
-- Git & GitHub pour la collaboration
-
----
-
-## 📱 Projets en cours
-
-<details>
-  <summary><b>🎓 Application éducative (Laravel + React + Ionic)</b></summary>
-  Plateforme gamifiée pour apprendre de manière interactive avec :
-  - 🧠 Quiz & défis interactifs
-  - 🏆 Système de points & classement
-  - 🤖 Mentor IA intégré
-  - 📈 Tableau de bord personnalisé
-</details>
-
-<details>
-  <summary><b>🤖 Bot e-commerce WhatsApp & Telegram (Laravel + React)</b></summary>
-  Solution SaaS pour petits commerçants :
-  - 🛍️ Ventes via statuts
-  - 💬 Chat intégré client-commerçant
-  - ⚙️ Admin API + base de données structurée + sécurité
-</details>
+## 💻 Stack technique :
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+<!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📈 Projets phares
-
-<a href="https://github.com/abdalbensaid/djagoya_bot_api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdalbensaid&repo=o.abdalwahab&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
-</a>
-<a href="https://github.com/abdalbensaid/nom-du-projet-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdalbensaid&repo=djagoya_bot_api&bg_color=0d1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&hide_border=true" />
-</a>
+## 📊 Statistiques GitHub :
+![](https://github-readme-stats.vercel.app/api?username=Abdalbensaid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Abdalbensaid&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalbensaid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📬 Me contacter
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdoul-wahab-ouedraogo-a93306292)
-- ✉️ Email pro : [ton.email@example.com]
-- 💻 Portfolio bientôt dispo !
+## 🏆 Trophées GitHub
+![](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-> Merci d’être passé·e ! N’hésite pas à explorer mes repos et à me suivre pour voir mes prochaines créations. Ensemble, construisons des outils qui ont du sens 🌱
+### ✍️ Citation du développeur
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+### 🔝 Dépôts les plus actifs
+![](https://github-contributor-stats.vercel.app/api?username=Abdalbensaid&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+
+## 🚀 Projets récents
+
+- 🎓 **Application éducative gamifiée avec IA** : quiz, défis, classements, mentor intelligent  
+- 🤖 **Bot e-commerce Laravel + React** : ventes via statuts WhatsApp/Telegram + dashboard admin  
+- 🧾 **Système de réservation Laravel** : billets d'avion, hôtels, activités touristiques (MagixTravel)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Abdalbensaid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💰 Soutenez mon travail
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdalbensaid@gmail.com)
+
+---
+
+> Merci d’avoir consulté mon profil GitHub 🙌  
+> Connectons-nous, échangeons, et construisons des projets à impact ensemble 🚀
