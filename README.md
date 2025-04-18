@@ -49,7 +49,7 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 ---
 
 ## 🏆 Mes trophées GitHub
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=commits,contribs,repositories&row=1)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=ghyt&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
