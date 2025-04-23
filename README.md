@@ -32,9 +32,6 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-<!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -42,15 +39,36 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 ---
 
 ## 📊 Statistiques GitHub :
-![](https://github-readme-stats.vercel.app/api?username=Abdalbensaid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Abdalbensaid&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalbensaid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Abdalbensaid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Abdalbensaid&theme=dracula&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalbensaid&theme=dracula&hide_border=false&layout=compact)
+
+---
+
+## 📈 Graphique d'activité GitHub
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalbensaid&theme=dracula)
+
+---
+
+## 🧠 GitHub Metrics avancés
+<img src="https://raw.githubusercontent.com/Abdalbensaid/Abdalbensaid/main/github-metrics.svg" alt="Metrics" style="width:100%;">
+
+---
+
+## 🗺️ Carte des compétences (fun)
+![GitHub World Map](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Abdalbensaid)
 
 ---
 
 ## 🏆 Mes trophées GitHub
-![](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Abdalbensaid&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
+## 🧮 Compteurs sociaux
+![Profile views](https://komarev.com/ghpvc/?username=Abdalbensaid&label=Vues%20du%20profil&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/Abdalbensaid?label=Suiveurs&style=social)
+![Stars](https://img.shields.io/github/stars/Abdalbensaid?affiliations=OWNER&style=social)
 
 ---
 
@@ -63,7 +81,6 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 
 - 🧰 [portfolio-react](https://github.com/Abdalbensaid/o.abdalwahab)
 - 🔐 [api-auth-laravel](https://github.com/Abdalbensaid/djagoya_bot_api)
-)
 
 ---
 
@@ -74,8 +91,6 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 - 🧾 **Système de réservation Laravel** : billets d'avion, hôtels, activités touristiques (MagixTravel)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Abdalbensaid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 Soutenez mon travail
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdalbensaid@gmail.com)
