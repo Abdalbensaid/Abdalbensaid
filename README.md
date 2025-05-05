@@ -54,7 +54,7 @@ Je m’investis également dans des projets éducatifs numériques et des outils
 <img src="https://raw.githubusercontent.com/Abdalbensaid/Abdalbensaid/main/github-metrics.svg" alt="Metrics" style="width:100%;">
 
 ---
-
+[Voir ma Skyline 3D](https://skyline.github.com/Abdalbensaid)
 ## 🗺️ Carte des compétences (fun)
 ![GitHub World Map](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Abdalbensaid)
 
